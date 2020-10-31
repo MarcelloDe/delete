@@ -1,17 +1,9 @@
 ---
-defaults:
-# _pages
-    - scope:
-    path: ""
-    type: pages
-values:
-    layout: page    
-    author_profile: true
-    title: Projects
-
-_pages/Projects.md
+title:  "Projects"
+layout: archive
 permalink: /Projects/
+author_profile: true
+comments: true
 ---
-My projects will eventually go here 
 
-_pages/Projects.md
+This is my projects page.
