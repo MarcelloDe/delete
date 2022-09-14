@@ -2,7 +2,7 @@
 layout: post
 title: "How I landed My Summer 2022 Data Analyst Internship"
 subtitle: "Blog Post"
-date: 2022-09-01 12:42
+date: 2022-09-08 12:42
 ---
 
 In the month of April 2022 I was just finishing up my second semester of my Software Development program and with summer coming up I applied to various internship positions. Having previous Data Science experience, I was selected to complete a take-home assignment as part of the interview process for the position of ‘Data Analyst Intern’. <b> This is a record of what the assignment entailed, the questions it asked, and my answers that landed me the position <b>.
