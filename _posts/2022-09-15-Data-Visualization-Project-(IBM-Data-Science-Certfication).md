@@ -4,7 +4,7 @@ title: "Data Visualization Project (IBM Data Science Certification)"
 subtitle: "Project Spotlight"
 date: 2022-09-15 01:42
 ---
-<h1>Data Vistualization Assignment (IBM Data Science Certification)</h1>
+<h1>Data Visualization Project (IBM Data Science Certification)</h1>
 
 <p>For this project I was tasked with demonstrating  data visualization skills primarily using Matplotlib. Two visualization plots were required for this project: the first one is a plot summarizing the results of a survey that was conducted to gauge an audience interest in different data science topics. The second plot is a Choropleth map of the crime rate in the city of San Francisco.</p>
 
