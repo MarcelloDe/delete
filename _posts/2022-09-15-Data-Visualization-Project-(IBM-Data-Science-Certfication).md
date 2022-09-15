@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "IBM Data Science Certification: Data Visualization Project"
+title: "Data Visualization Project (IBM Data Science Certification)"
 subtitle: "Project Spotlight"
-date: 2022-09-15 12:42
+date: 2022-09-15 01:42
 ---
 <h1>Data Vistualization Assignment (IBM Data Science Certification)</h1>
 
