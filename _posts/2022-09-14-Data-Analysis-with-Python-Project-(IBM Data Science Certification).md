@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "IBM Data Science Certification: Data Analysis Project"
+title: "IBM Data Science Project: Data Analysis Project"
 subtitle: "Project Spotlight"
 date: 2022-09-14 01:42
 ---
 
-<h1> Data Analysis Assignment: House Sales in King County, USA </h1>
+<h1> Data Analysis Project: House Sales in King County, USA </h1>
 
 <p>For this assignment, I used python to analyze and predict housing prices using attributes and features such as square footage, number of bedrooms, number of floors and so on.</p>
 

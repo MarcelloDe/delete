@@ -2,7 +2,7 @@
 layout: post
 title: "IBM Data Science Certification: SQL and Database Project"
 subtitle: "Project Spotlight"
-date: 2022-09-29 12:42
+date: 2022-09-21 01:42
 ---
 <h1>IBM Data Science Certification SQL and Database Project</h1>
 
